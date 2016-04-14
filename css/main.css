@@ -1,0 +1,56 @@
+/* Global */
+.mp {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+}
+
+/* Header */
+.mp .mdl-layout__header,
+.mp .mdl-navigation__link,
+.mp .mdl-layout__drawer-button {
+  color: grey;
+}
+.mp-header {
+  background-color: white;
+}
+
+/* Logo block*/
+.mp-welcome-block {
+  background: url('../images/main_background.jpg') center / cover;
+  height: 800px;
+  width: auto;
+}
+.mp-welcome-block-text {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mp-welcome-block-text__logo {
+  padding-top: 300px;
+  margin-bottom: 20px;
+}
+
+/* About block */
+.mp-about-block {
+  background-color: #f3f3f3;
+  height: 650px;
+  width: auto;
+}
+.mp-about-block-text {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mp-about-block-text__title{
+  padding-top: 80px;
+  margin-bottom: 30px;
+}
+.mp-about-block-text__main-text {
+  font-size: 20px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+.mp-about-block-text__advantage-list {
+}
+.mp-about-block-text__advantage-list__column {
+}
